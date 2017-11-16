@@ -3,6 +3,10 @@ Created on Nov 16, 2017
 
 @author: 
 '''
+
+protos = dict()
+#protos['lm']= 
+
 def Train(epoch):
     return 1
 
