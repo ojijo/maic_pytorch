@@ -6,3 +6,5 @@ Created on 2017年11月16日
 import torch.nn
 import torch
 #layer, parent = torch. .class('nn.LanguageModel', 'nn.Module')
+class LanguageModel():
+    

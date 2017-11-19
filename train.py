@@ -4,8 +4,10 @@ Created on Nov 16, 2017
 @author: 
 '''
 
+from misc import LanguageModel
+
 protos = dict()
-#protos['lm']= 
+protos['lm']= LanguageModel()
 
 def Train(epoch):
     return 1
